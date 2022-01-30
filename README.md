@@ -1,2 +1,4 @@
 # example_game
 UnityをGithubを用いて共有する方法を理解するため作成
+
+お前はもう死んでいる
